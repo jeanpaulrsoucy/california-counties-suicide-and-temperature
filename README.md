@@ -1,6 +1,10 @@
 # The Effect of Average Temperature on Suicide Rates in Five Urban California Counties, 1999–⁠2019: An Ecological Time Series Analysis
 
-Analysis code in R for the manuscript "The Effect of Average Temperature on Suicide Rates in Five Urban California Counties, 1999–⁠2019: An Ecological Time Series Analysis" by Sierra Cheng, Rebecca Plouffe, Stephanie M. Nanos, Mavra Qamar, David N. Fisman, and Jean-Paul R. Soucy.
+Analysis code in R for the manuscript "[The Effect of Average Temperature on Suicide Rates in Five Urban California Counties, 1999–⁠2019: An Ecological Time Series Analysis](https://doi.org/10.1186/s12889-021-11001-6)" by Sierra Cheng, Rebecca Plouffe, Stephanie M. Nanos, Mavra Qamar, David N. Fisman, and Jean-Paul R. Soucy.
+
+## Citation
+
+Cheng, S., Plouffe, R., Nanos, S.M. et al. The effect of average temperature on suicide rates in five urban California counties, 1999–⁠2019: an ecological time series analysis. *BMC Public Health* **21,** 974 (2021). [https://doi.org/10.1186/s12889-021-11001-6](https://doi.org/10.1186/s12889-021-11001-6)
 
 ## Running this code
 
